@@ -1,5 +1,16 @@
 # 👋 Olá, eu sou o Alessandro Bueno
 
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
+
+![SaaS](https://img.shields.io/badge/SaaS%20Builder-000000?style=flat)
+![Indie Hacker](https://img.shields.io/badge/Indie%20Hacker-000000?style=flat)
+
+
 Sou **Dev Fullstack**, **Builder de SaaS** e **Empreendedor Tech**, com mais de **20 anos de experiência** transformando ideias em **produtos reais**, MVPs e soluções digitais que resolvem problemas de verdade.
 
 Atuo principalmente criando **SaaS completos**, do backend à interface, com foco em **arquitetura, escalabilidade, automação e experiência do usuário**.
